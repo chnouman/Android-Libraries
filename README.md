@@ -1,7 +1,7 @@
 # Utilities
 Collection of all helping libraries
 
-Welcome to the Utilities wiki!
+Welcome to the Android-Libraries wiki!
 
 Date Libraries
 
