@@ -40,3 +40,9 @@ https://github.com/ccrama/Slide
 Upload Multiple images or array of images to server 
 
 http://sachinverma.co.in/upload-multiple-images-to-server-using-volley-android/
+
+# Chatting Built-In Module for Andorid, IOS and Web
+
+https://github.com/cloverstudio/Spika
+
+https://github.com/chat-sdk/chat-sdk-android
